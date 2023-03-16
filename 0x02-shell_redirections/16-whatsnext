@@ -1,2 +1,2 @@
-#!/bin/bash
-ls *root /etc/passwd
+#/!bin/bash
+look -t root tail -n3 > etc/passwd
